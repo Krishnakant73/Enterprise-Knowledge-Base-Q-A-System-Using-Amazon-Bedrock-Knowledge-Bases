@@ -1,0 +1,59 @@
+2026-04-09 19:07:53 | INFO | __main__ | Starting Enterprise Knowledge Assistant app
+2026-04-09 19:07:53 | INFO | services.memory_manager | Chat memory initialized
+2026-04-09 19:08:11 | INFO | __main__ | Starting Enterprise Knowledge Assistant app
+2026-04-09 19:08:11 | INFO | __main__ | Starting Enterprise Knowledge Assistant app
+2026-04-09 19:08:15 | INFO | __main__ | Starting Enterprise Knowledge Assistant app
+2026-04-09 19:08:15 | INFO | __main__ | Starting Enterprise Knowledge Assistant app
+2026-04-09 19:10:12 | INFO | __main__ | Starting Enterprise Knowledge Assistant app
+2026-04-09 19:10:12 | INFO | services.memory_manager | Chat memory initialized
+2026-04-09 19:17:17 | INFO | __main__ | Starting Enterprise Knowledge Assistant app
+2026-04-09 19:17:17 | INFO | services.memory_manager | Chat memory initialized
+2026-04-09 19:17:40 | INFO | __main__ | Starting Enterprise Knowledge Assistant app
+2026-04-09 19:17:40 | INFO | services.memory_manager | Chat memory initialized
+2026-04-09 19:17:55 | INFO | __main__ | Starting Enterprise Knowledge Assistant app
+2026-04-09 19:17:55 | INFO | services.memory_manager | Chat memory initialized
+2026-04-09 19:27:17 | INFO | __main__ | Starting Enterprise Knowledge Assistant app
+2026-04-09 19:27:17 | INFO | services.memory_manager | Chat memory initialized
+2026-04-09 19:27:50 | INFO | __main__ | Starting Enterprise Knowledge Assistant app
+2026-04-09 19:27:50 | INFO | services.memory_manager | Chat memory initialized
+2026-04-09 19:34:17 | INFO | __main__ | Starting Enterprise Knowledge Assistant app
+2026-04-09 19:34:17 | INFO | services.memory_manager | Chat memory initialized
+2026-04-09 19:35:15 | INFO | __main__ | Starting Enterprise Knowledge Assistant app
+2026-04-09 19:35:15 | INFO | services.memory_manager | Chat memory initialized
+2026-04-09 19:39:31 | INFO | __main__ | Starting Enterprise Knowledge Assistant app
+2026-04-09 19:39:31 | INFO | services.memory_manager | Chat memory initialized
+2026-04-09 19:40:50 | INFO | __main__ | Starting Enterprise Knowledge Assistant app
+2026-04-09 19:40:50 | INFO | services.memory_manager | Chat memory initialized
+2026-04-09 19:40:55 | INFO | __main__ | Starting Enterprise Knowledge Assistant app
+2026-04-09 19:40:55 | INFO | services.memory_manager | Chat memory initialized
+2026-04-09 19:42:26 | INFO | __main__ | Starting Enterprise Knowledge Assistant app
+2026-04-09 19:42:26 | INFO | services.memory_manager | Chat memory initialized
+2026-04-09 19:43:19 | INFO | __main__ | Starting Enterprise Knowledge Assistant app
+2026-04-09 19:43:19 | INFO | services.memory_manager | Chat memory initialized
+2026-04-09 19:43:40 | INFO | __main__ | Starting Enterprise Knowledge Assistant app
+2026-04-09 19:43:40 | INFO | services.memory_manager | Added user message to memory
+2026-04-09 19:43:40 | INFO | __main__ | User query received: hi
+2026-04-09 19:43:52 | INFO | services.bedrock_kb_service | Bedrock KB client initialized for region: us-east-1
+2026-04-09 19:43:52 | INFO | services.bedrock_kb_service | Retrieving from KB: your_knowledge_base_id_here | Query: hi
+2026-04-09 19:43:52 | ERROR | services.bedrock_kb_service | AWS Bedrock retrieval failed: Unable to locate credentials
+2026-04-09 19:43:52 | ERROR | __main__ | App error: AWS Bedrock retrieval failed.
+2026-04-09 19:43:52 | INFO | services.memory_manager | Added assistant message to memory
+2026-04-10 16:09:35 | INFO | __main__ | Starting Enterprise Knowledge Assistant app
+2026-04-10 16:09:35 | INFO | services.memory_manager | Chat memory initialized
+2026-04-10 16:10:02 | INFO | __main__ | Starting Enterprise Knowledge Assistant app
+2026-04-10 16:10:08 | INFO | __main__ | Starting Enterprise Knowledge Assistant app
+2026-04-10 16:10:42 | INFO | __main__ | Starting Enterprise Knowledge Assistant app
+2026-04-10 16:10:42 | INFO | services.memory_manager | Added user message to memory
+2026-04-10 16:10:42 | INFO | __main__ | User query received: this is salary
+2026-04-10 16:10:42 | ERROR | __main__ | App error: Knowledge Base ID is missing. Please configure it in the sidebar.
+2026-04-10 16:10:42 | INFO | services.memory_manager | Added assistant message to memory
+2026-04-10 16:10:48 | INFO | __main__ | Starting Enterprise Knowledge Assistant app
+2026-04-10 16:10:48 | INFO | __main__ | Starting Enterprise Knowledge Assistant app
+2026-04-10 16:10:59 | INFO | __main__ | Starting Enterprise Knowledge Assistant app
+2026-04-10 16:10:59 | INFO | services.memory_manager | Added user message to memory
+2026-04-10 16:10:59 | INFO | __main__ | User query received: stipne of intern
+2026-04-10 16:11:02 | INFO | services.bedrock_kb_service | Bedrock KB client initialized for region: us-east-1
+2026-04-10 16:11:02 | INFO | services.bedrock_kb_service | Retrieving from KB: HBC7PRIQ7H | Query: stipne of intern
+2026-04-10 16:11:02 | ERROR | services.bedrock_kb_service | AWS Bedrock retrieval failed: Unable to locate credentials
+2026-04-10 16:11:02 | ERROR | __main__ | App error: AWS Bedrock retrieval failed.
+2026-04-10 16:11:02 | INFO | services.memory_manager | Added assistant message to memory
